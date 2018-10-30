@@ -2,8 +2,8 @@
 Contact Form for websites
 # Screenshot
 <img src="form.png">
-# Developers 
+
+# Developer
 Saksham Sharma  <br>
-Avni Bhardwaj  <br>
-pankaj Patidar <br>
-***********************************************
+
+
